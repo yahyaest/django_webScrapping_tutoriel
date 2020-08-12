@@ -100,7 +100,7 @@ pylint==2.4.4
 pyparsing==2.4.7
 pyquery==1.4.1
 pyrsistent==0.15.7
-python-dateutil==1.5
+python-dateutil==2.6.1
 python-dotenv==0.13.0
 python-json2csv==0.2.0
 python-vkontakte==1.1.2
